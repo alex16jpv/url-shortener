@@ -1,0 +1,6 @@
+[submodule "url-shortener-api"]
+	path = url-shortener-api
+	url = git@github.com:alex16jpv/url-shortener-api.git
+[submodule "url-shortener-client"]
+	path = url-shortener-client
+	url = git@github.com:alex16jpv/url-shortener-client.git
